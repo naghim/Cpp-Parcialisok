@@ -1,0 +1,20 @@
+COUPON2024A   100 
+10% kedvezmeny minden online vasarlasra
+SAVE10   50
+5000 Ft kedvezmeny 20,000 Ft feletti vasarlasokra
+HAPPYNEWYEAR   200
+Ingyenes szallitas az elso 3 rendelesre
+SUMMERJOY20   150
+20% kedvezmeny minden nyari kollekcios termekre
+HOMEDECOR10   80
+10% kedvezmeny otthoni dekoracios termekekre
+SPORTIVE   120
+15% kedvezmeny minden sportfelszerelesre
+TRAVEL15   60
+15% kedvezmeny utazasi csomagokra
+GENSHINGIFT   200
+10% kedvezmeny minden termekre
+ELECTRONICS   70
+5% kedvezmeny minden elektronikai termekre
+KITCHENREADY   90
+20% kedvezmeny minden konyhai keszulekre

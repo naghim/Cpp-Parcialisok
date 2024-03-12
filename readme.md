@@ -1,10 +1,14 @@
-## C++ parciálisok
+# C++ parciálisok
 
 ...egy lehetséges megoldásai.
 
 ## Tételek:
 
-**2023:**
+**2023-2024:**
 
-- C csoport - Playlist (Song, User osztályok)
-- D csoport - Game library (Game, User osztályok)
+- Parciális I:
+  - `Playlist` -> Lejátszási lista megvalósítása
+  - `Game wishlist` -> Kívánságlista megvalósítása
+- Parciális II:
+  - `Coupons` -> Kuponbeváltó redszer implementálása
+  - `Link shortener` -> Linkrövidítő szolgáltatás implementálása
