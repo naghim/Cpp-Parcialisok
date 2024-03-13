@@ -17,3 +17,4 @@
 
 - Parciális II:
   - `Medals` -> Olimpiai játékok éremtáblázatának megvalósítása
+  - `Expenses` -> Éves kiadásokat havi lebontásban feldolgozó osztály implementálása
