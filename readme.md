@@ -11,11 +11,18 @@ Ez a repository a Sapientia Egyetemen tartott C++ laborok során kiadott parciá
 ### Tartalomjegyzék
 
 - [Tételek és megoldások](#tételek-és-megoldások)
+  - [2025-2026](#2025-2026)
   - [2024-2025](#2024-2025)
   - [2023-2024](#2023-2024)
   - [2022-2023](#2022-2023)
 
 ## Tételek és megoldások
+
+### 2025-2026
+
+- **Parciális I**:
+  - [`Shelter`](Parcialis%20I/Shelter) -> Kutyamenhely ([pdf](Parcialis%20I/Shelter.pdf))
+  - [`Programming contest`](Parcialis%20I/Programming_contest) -> Programozói verseny ([pdf](Parcialis%20I/Programming_contest.pdf))
 
 ### 2024-2025
 
