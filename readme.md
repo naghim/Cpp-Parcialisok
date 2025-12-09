@@ -23,6 +23,8 @@ Ez a repository a Sapientia Egyetemen tartott C++ laborok során kiadott parciá
 - **Parciális I**:
   - [`Shelter`](Parcialis%20I/Shelter) -> Kutyamenhely ([pdf](Parcialis%20I/Shelter.pdf))
   - [`Programming contest`](Parcialis%20I/Programming_contest) -> Programozói verseny ([pdf](Parcialis%20I/Programming_contest.pdf))
+- **Parciális II**:
+  - [`Malware catalog`](Parcialis%20II/Malware_catalog) -> Malware-k katalogizálása ([pdf](Parcialis%20II/Malware_catalog.pdf))
 
 ### 2024-2025
 
