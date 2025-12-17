@@ -1,0 +1,5 @@
+185.23.11.45	Romania	67	Windows	10
+94.156.2.89	Ukraine	92	Linux	true
+178.128.45.201	Russia	34	Windows	11
+5.199.200.11	Hungary	88	Linux	false
+212.77.1.33	Poland	55	Windows	10

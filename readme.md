@@ -25,6 +25,7 @@ Ez a repository a Sapientia Egyetemen tartott C++ laborok során kiadott parciá
   - [`Programming contest`](Parcialis%20I/Programming_contest) -> Programozói verseny ([pdf](Parcialis%20I/Programming_contest.pdf))
 - **Parciális II**:
   - [`Malware catalog`](Parcialis%20II/Malware_catalog) -> Malware-k katalogizálása ([pdf](Parcialis%20II/Malware_catalog.pdf))
+  - [`Botnet`](Parcialis%20II/Botnet) -> Botnet command & control (C&C) szerver írása ([pdf](Parcialis%20II/Botnet.pdf))
 
 ### 2024-2025
 
